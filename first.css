@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+}
+.navbar{
+    justify-content: space-around;
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    text-align: right;
+    margin: 50px;
+    
+}
+.links{
+    border-bottom: #3ca0c5 solid 1px;
+}
+li{
+    display: inline;
+    margin-right: 20px;
+    border: 20px;
+}
+.largest-broker{
+    display: flex;
+    padding: auto;
+    display:contents;
+    text-align: right;
+}
+#img1{
+    display: flex;
+    width: 230px;
+    padding-left: 25px;
+    margin-left: 20px;
+    justify-content: space-around;
+}
+a{
+    color: rgb(138, 138, 138);
+    text-decoration: none;
+}
+a:hover{
+    color: rgba(0, 229, 255, 0.645);
+}
+#invest{
+    text-align: center;
+}
+#para1{
+    text-align: center;
+}
+button{
+    background-color: #3ca0c5; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
